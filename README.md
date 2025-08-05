@@ -36,3 +36,9 @@ Publishing interactive dashboard via Tableau Public or Power BI Web
 Adding filtering capability for users to explore based on their own preferences
 
 Integrating IMDb/Rotten Tomatoes score for deeper rating analysis
+
+
+connect with me
+https://www.linkedin.com/in/aakash-sharma-70237b218
+https://www.instagram.com/okeyaakash
+
