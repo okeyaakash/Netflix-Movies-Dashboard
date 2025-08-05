@@ -39,6 +39,7 @@ Integrating IMDb/Rotten Tomatoes score for deeper rating analysis
 
 
 connect with me
-https://www.linkedin.com/in/aakash-sharma-70237b218
-https://www.instagram.com/okeyaakash
+linkedin: https://www.linkedin.com/in/aakash-sharma-70237b218
+
+IG: https://www.instagram.com/okeyaakash
 
